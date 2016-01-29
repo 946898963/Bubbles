@@ -5,5 +5,5 @@
 dependencies {   
   compile 'com.github.lzyzsd.randomcolor:library:1.0.0'   
 }   
-效果图如下所示   
+效果图如下所示(如果看不到效果图的话，切换浏览器的模式)   
 ![](http://github.com/946898963/Bubbles/raw/master/fulutupian/xiaoguotu.gif)  
